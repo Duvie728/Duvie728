@@ -1,6 +1,6 @@
 - Hello 👋
 - 👀I’m looking to collaborate on programming projects 
-- 📫 How to reach me ...
+- 📫 feel free to reach out...
 
 <!---
 Duvie728/Duvie728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
