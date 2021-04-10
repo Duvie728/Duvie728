@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Duvie728
-- 👀 I’m interested in backend programming 
+- 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on programming projects 
 - 📫 How to reach me ...
